@@ -20,11 +20,6 @@ Growing up in Hong Kong, I was the kid who enjoyed creating simple web games in 
 ![](https://nirzak-streak-stats.vercel.app/?user=saviong&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saviong&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 <br>
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=saviong&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<br>
----
-[![](https://visitcount.itsvg.in/api?id=saviong&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
