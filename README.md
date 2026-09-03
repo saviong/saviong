@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20there!"/>
 </p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/saviong/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:yeungson@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <img src="https://img.shields.io/badge/London,%20UK-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="London, UK"/> <img src="https://img.shields.io/badge/Right%20to%20Work-Settled%20Status-555555?style=for-the-badge" alt="Right to work"/> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/saviong/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:yeungson@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <img src="https://img.shields.io/badge/London,%20UK-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="London, UK"/> </p>
 
 # 💫 About Me
 
